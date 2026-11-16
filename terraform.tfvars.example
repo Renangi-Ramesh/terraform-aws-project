@@ -1,0 +1,2 @@
+# Copy to terraform.tfvars and replace with your own public IP/CIDR.
+admin_cidr = "203.0.113.10/32"
